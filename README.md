@@ -12,6 +12,6 @@ In this simple web server we have imported three packages –
 
 The above diagram represents the three routes from the server file
 
-''/ route'' – This file will simply open the index.html file
+´´/ route´´ – This file will simply open the index.html file
 /hello route – This route will execute the hello function which is written in the code.
 /form route – This will take us to a form, where we will be taking the input of the user’s name and user’s address and after that it will execute the form function, which will display the details that the user has filled in the form.
